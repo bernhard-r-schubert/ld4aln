@@ -5,6 +5,7 @@
 
 ## BIBFRAME
 +[European BIBFRAME Workshops](https://wiki.dnb.de/display/EBW/EUBFWS2017)
+
 +[LoC Training](https://www.loc.gov/catworkshop/bibframe/)
 
 ## Best Practice
@@ -12,4 +13,5 @@
 
 ## Workflows
 +[National Library of Finland](https://github.com/NatLibFi/bib-rdf-pipeline)
+
 +[From LOD to LOUD](https://hbz.github.io/swib18-workshop/)
