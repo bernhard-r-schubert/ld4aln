@@ -10,6 +10,6 @@
 ## Best Practice
 +[DINI AG KIM](https://wiki.dnb.de/x/cYMOB)
 
-Workflows
+## Workflows
 +[National Library of Finland](https://github.com/NatLibFi/bib-rdf-pipeline)
 +[From LOD to LOUD](https://hbz.github.io/swib18-workshop/)
