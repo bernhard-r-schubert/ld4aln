@@ -12,3 +12,7 @@
 ## Indexierung
 + [SolR](http://lucene.apache.org/solr/)
 + [ElasticSearch](https://www.elastic.co/)
++ [GraphDB](http://graphdb.ontotext.com/)
+
+## Visualisierung
++ [Kibana](https://www.elastic.co/products/kibana)
