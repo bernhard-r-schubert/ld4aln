@@ -9,6 +9,9 @@
 + [Questioning Authority](https://github.com/samvera/questioning_authority)
 + [VitroLib](https://github.com/ld4l-labs/vitrolib)
 
+## XML-Browser
++ [XML-Explorer](https://xmlexplorer.github.io/)
+
 ## Indexierung
 + [SolR](http://lucene.apache.org/solr/)
 + [ElasticSearch](https://www.elastic.co/)
