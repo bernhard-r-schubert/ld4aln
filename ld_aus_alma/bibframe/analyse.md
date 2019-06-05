@@ -11,5 +11,6 @@
 - BS: `<bf:place>` verwendet die MARC-Ländercodes, ISO kommt aber auch vor.
 - BS: Stichwörter in `246` kommen als Titelportion an.
 - BS: Illustationsangabe auf Instance-Ebene, als `<bf:note>`.
+- BS: TATs machen Probleme: Sortierung von `$$n` und `$$p` kommt nicht an, bevorzugter Titel des Werks wird aus der `245` genommen, was bei Formaltiteln und Übersetzungen nicht stimmt - aber es gibt eine `partOf`-Beziehung zum übergeordneten Datensatz
 ## Fehlende Informationen
 ## Sonstiges
