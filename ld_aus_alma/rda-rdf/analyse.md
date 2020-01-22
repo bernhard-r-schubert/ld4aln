@@ -1,5 +1,7 @@
 ## Versionierung
 
+BS: Finde keine Information zum Zeitpunkt der Erstellung bzw. zum Mapping?
+
 ## Modellierung
 
 BS: In Entitäten modelliert, was gut ist - Beziehung zwischen W, E, M ist realisiert.
